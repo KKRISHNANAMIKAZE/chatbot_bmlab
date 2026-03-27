@@ -1,3 +1,11 @@
 streamlit
 langchain==0.0.350
 openai
+streamlit
+PyPDF2
+langchain
+langchain-google-genai
+google-generativeai
+faiss-cpu
+python-dotenv
+langchain_community
